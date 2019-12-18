@@ -34,3 +34,8 @@ li {
   padding: 10px 25px;
   background-color: black;
 }
+
+img {
+  height: 250px;
+  width: 250px;
+}
